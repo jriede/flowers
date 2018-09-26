@@ -1,4 +1,4 @@
-package VectorOperations.library;
+package Flowers.library;
 
 
 import processing.core.*;
@@ -14,7 +14,7 @@ import processing.core.*;
  * @example Hello
  */
 
-public class VectorOperations {
+public class Flowers {
 
 	// myParent is a reference to the parent sketch
 	PApplet myParent;
@@ -31,14 +31,14 @@ public class VectorOperations {
 	 * @example Hello
 	 * @param theParent
 	 */
-	public VectorOperations(PApplet theParent) {
+	public Flowers(PApplet theParent) {
 		myParent = theParent;
 		welcome();
 	}
 
 
 	private void welcome() {
-		System.out.println("VectorOperations 1.0.0 by Julia Riede https://jriede.github.io");
+		System.out.println("Flowers 1.0.0 by Julia Riede https://jriede.github.io");
 	}
 
 
