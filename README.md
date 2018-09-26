@@ -11,3 +11,16 @@ Generative flowers contain the following parts:
 * stem
 * center
 * petals
+
+### Stem
+Stems have a defined origin (the place they emerge from the ground), a certain height and end in a center or on the edge of a center. The most simple stem is a straight line from a point a (the origin) to point b (the center), but that wouldn't be as  visually appealing as if you were drawing a flower by hand so we add some random noise.
+
+A stem has the following properties:
+
+* origin
+* direction
+* length
+* color
+* thickness
+
+The *direction* and *length* properties could be combined into an *endpoint* property but I prefer to list them separately for versatility.
