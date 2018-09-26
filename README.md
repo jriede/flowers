@@ -36,3 +36,6 @@ The center emulates the calyx and reproductive parts of a flower. If assumed to 
 
 ### Petals
 Petals surround the center in a generative flower. They have a certain shape and there is a defined number of petals for each flower.
+
+
+*Now we play.*
