@@ -2,7 +2,7 @@ Generative flowers inspired by the *Fugly Flowers* project by [@mokafolio](https
 
 **Note: when running the pde every click on the canvas creates a new bunch of flowers.**
 
-![Flower](https://github.com/jriede/flowers/flowers/petals-1054.png)
+![Flower](https://github.com/jriede/flowers/petals-1054.png)
 
 
 ## What is a Flower?
